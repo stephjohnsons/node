@@ -1,15 +1,2 @@
-# Global objects of Node.js
-<sup>From lesson 1:18</sup>
-In browsers: 
-- window
-- history
-- document
-- location
-- navigator 
-
-In node.js 
-- global
-- process
-- module
-- __filename
-- require()
+# Notes 
+- [Global objects] (/notes/global_objects.md)
