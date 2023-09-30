@@ -1,5 +1,5 @@
 # Global objects of Node.js
-<sup>From lesson 1:18</sup>
+<sup>From lesson 1:18</sup><br>
 In browsers: 
 - window
 - history
